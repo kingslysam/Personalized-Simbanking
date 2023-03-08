@@ -1,8 +1,12 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:personalized_simbanking/routes/app_routes.dart';
 
 import 'core/app_export.dart';
+import 'core/utils/initial_bindings.dart';
+import 'core/utils/logger.dart';
+import 'localization/app_localization.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

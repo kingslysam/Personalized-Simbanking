@@ -1,7 +1,7 @@
 import '../controller/my_transfering_controller.dart';
 import '../models/listrectanglecopy_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:samuel_yona_killagane_s_application2/core/app_export.dart';
+import 'package:personalized_simbanking/core/app_export.dart';
 
 // ignore: must_be_immutable
 class ListrectanglecopyItemWidget extends StatelessWidget {

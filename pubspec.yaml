@@ -1,4 +1,4 @@
-name: Personalized Simbanking
+name: personalized_simbanking
 description: A new Flutter project.
 version: 1.0.0+1
 environment: 
@@ -8,10 +8,10 @@ dependencies:
     sdk: flutter
   get: ^4.6.5
   cupertino_icons: ^1.0.5
-  connectivity_plus: ^2.3.6
+  connectivity_plus: ^3.0.3
   shared_preferences: ^2.0.15
   cached_network_image: ^3.2.1
-  flutter_svg: ^0.22.0
+  flutter_svg: ^1.1.6
 dev_dependencies: 
   flutter_test: 
     sdk: flutter

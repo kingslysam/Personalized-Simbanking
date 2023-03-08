@@ -6,8 +6,8 @@ import '../mybudget_details_screen/widgets/budgetcard_item_widget_red.dart';
 import 'controller/mybudget_details_controller2.dart';
 import 'models/budgetcard_item_model2.dart';
 import 'package:flutter/material.dart';
-import 'package:samuel_yona_killagane_s_application2/core/app_export.dart';
-import 'package:samuel_yona_killagane_s_application2/widgets/custom_button.dart';
+import 'package:personalized_simbanking/core/app_export.dart';
+import 'package:personalized_simbanking/widgets/custom_button.dart';
 
 class MybudgetDetailsScreen extends GetWidget<MybudgetDetailsController2> {
   @override

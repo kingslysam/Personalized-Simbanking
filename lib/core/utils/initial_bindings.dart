@@ -1,5 +1,5 @@
-import 'package:samuel_yona_killagane_s_application2/core/app_export.dart';
-import 'package:samuel_yona_killagane_s_application2/data/apiClient/api_client.dart';
+import 'package:personalized_simbanking/core/app_export.dart';
+import 'package:personalized_simbanking/data/apiClient/api_client.dart';
 
 class InitialBindings extends Bindings {
   @override

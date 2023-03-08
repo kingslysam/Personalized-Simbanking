@@ -1,8 +1,8 @@
 import '../controller/mybudget_details_controller.dart';
 import '../models/budgetcard_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:samuel_yona_killagane_s_application2/core/app_export.dart';
-import 'package:samuel_yona_killagane_s_application2/widgets/custom_icon_button.dart';
+import 'package:personalized_simbanking/core/app_export.dart';
+import 'package:personalized_simbanking/widgets/custom_icon_button.dart';
 
 // ignore: must_be_immutable
 class BudgetcardItemWidget extends StatelessWidget {

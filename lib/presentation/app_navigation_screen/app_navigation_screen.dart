@@ -1,6 +1,6 @@
 import 'controller/app_navigation_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:samuel_yona_killagane_s_application2/core/app_export.dart';
+import 'package:personalized_simbanking/core/app_export.dart';
 
 class AppNavigationScreen extends GetWidget<AppNavigationController> {
   @override

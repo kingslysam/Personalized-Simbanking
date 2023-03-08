@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:samuel_yona_killagane_s_application2/presentation/app_navigation_screen/models/app_navigation_model.dart';
+import 'package:personalized_simbanking/presentation/app_navigation_screen/models/app_navigation_model.dart';
 
 class AppNavigationController extends GetxController {
   Rx<AppNavigationModel> appNavigationModelObj = AppNavigationModel().obs;

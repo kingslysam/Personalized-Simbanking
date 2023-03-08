@@ -1,8 +1,8 @@
 import 'controller/my_home_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:samuel_yona_killagane_s_application2/core/app_export.dart';
-import 'package:samuel_yona_killagane_s_application2/widgets/custom_button.dart';
-import 'package:samuel_yona_killagane_s_application2/widgets/custom_text_form_field.dart';
+import 'package:personalized_simbanking/core/app_export.dart';
+import 'package:personalized_simbanking/widgets/custom_button.dart';
+import 'package:personalized_simbanking/widgets/custom_text_form_field.dart';
 
 class MyHomeScreen extends GetWidget<MyHomeController> {
   @override
